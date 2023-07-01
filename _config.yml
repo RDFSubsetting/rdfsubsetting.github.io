@@ -27,9 +27,9 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/shex-consolidator/subsetting-book  # Online location of your book
-  path_to_book: book # Optional path to your book, relative to the repository root
-  branch: codebookDev    # Which branch of the repository should be used when creating links (optional)
+  url: https://github.com/RDFSubsetting/rdfsubsetting.github.io  # Online location of your book
+  path_to_book: _build/html # Optional path to your book, relative to the repository root
+  branch: gh-pages    # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository

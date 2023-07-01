@@ -8,3 +8,6 @@ chapters:
 - file: SubsetTypes
 - file: Tools
   sections:
+  - file: tools/PyRDFSubset
+  - file: tools/RDFSubSetJS
+  - file: RustRDFSubSet
