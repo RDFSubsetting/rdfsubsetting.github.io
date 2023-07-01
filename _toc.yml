@@ -6,8 +6,8 @@ root: index
 chapters:
 - file: sources
 - file: SubsetTypes
-- file: Tools
+- file: tools/index
   sections:
   - file: tools/PyRDFSubset
   - file: tools/RDFSubSetJS
-  - file: RustRDFSubSet
+  - file: tools/RustRDFSubSet
